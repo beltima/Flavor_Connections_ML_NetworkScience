@@ -42,9 +42,11 @@ The IF-IRF weight calculated with log (base e) is then used to extract the backb
 The backbone graph is visualized as follows:
 
 <p align="center">
-  <img src="/images/Backbone%20of%20the%20ingredient%20network.png" alt="Figure 1. Backbone of the ingredient network", title="Figure 1. Backbone of the ingredient network">
+  <img src="/images/Backbone%20of%20the%20ingredient%20network.png" alt="Figure 1. Backbone of the ingredient network">
 </p>
-
+<p align="center">
+  Figure 1. Backbone of the ingredient network
+</p>
 
 Each node denotes an ingredient. Two ingredients are connected if they share a significant number of flavor compounds. Here, in this graph, the full network is too dense to be informative. We still used the full network in the rest of our work.
 
