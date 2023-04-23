@@ -40,7 +40,7 @@ Then the other types of weights are calculated using the ingredient-pair frequen
 The IF-IRF weight calculated with log (base e) is then used to extract the backbone graph. The threshold is set as 60% of the maximum weight, the edge of the pair which has a weight below the threshold will be removed, resulting in the extraction of a backbone graph that retains only edges with weights above the threshold.
 
 The backbone graph is visualized as follows:
-<img src="..images/Backbone of the ingredient network.png" alt="Figure 1. Backbone of the ingredient network" title="Figure 1. Backbone of the ingredient network">
+![Figure 1. Backbone of the ingredient network](../images/Backbone%20of%20the%20ingredient%20network.png)
 Each node denotes an ingredient. Two ingredients are connected if they share a significant number of flavor compounds. Here, in this graph, the full network is too dense to be informative. We still used the full network in the rest of our work.
 
 ### Cuisine Classification
