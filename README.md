@@ -54,17 +54,13 @@ We used ingredient information as features. We apply the following classifiers i
 
 Table 1. Evaluation of the performance of the classifiers
 
-Classifier	Accuracy
-
-Logistic Regression	69.3%
-
-Support Vector Machine	70.1%
-
-RandomForest	68.4%
-
-Multinomial Naive Bayes	63.8%
-
-XGBoost	68.8%
+|Classifier |	Accuracy|
+|-----------|---------|
+|Logistic Regression |	69.3%|
+|Support Vector Machine |	70.1%|
+|RandomForest |	68.4%|
+|Multinomial Naive Bayes |	63.8%|
+|XGBoost	| 68.8%|
 
 We also performed hyperparameter tuning in order to prevent overfitting and achieve the highest performance possible.
 SVM is the classifier that allows the best classification of the recipes. Using ingredient information as features, we were able to classify recipes into regional cuisines with 71% accuracy.
