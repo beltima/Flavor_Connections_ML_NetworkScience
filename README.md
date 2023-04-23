@@ -41,9 +41,8 @@ The IF-IRF weight calculated with log (base e) is then used to extract the backb
 
 The backbone graph is visualized as follows:
 
-<!-- ![Figure 1. Backbone of the ingredient network](/images/Backbone%20of%20the%20ingredient%20network.png) -->
 <p align="center">
-  <img src="/images/Backbone%20of%20the%20ingredient%20network.png" alt="Figure 1. Backbone of the ingredient network">
+  <img src="/images/Backbone%20of%20the%20ingredient%20network.png" alt="Figure 1. Backbone of the ingredient network", title="Figure 1. Backbone of the ingredient network">
 </p>
 
 
